@@ -4,6 +4,7 @@ class Student{
     }
     class TestStudent2{
     public static void main(String args[]){
+        //object
     Student s1=new Student();
     s1.id=200;
     s1.name="James";
