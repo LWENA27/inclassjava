@@ -1,4 +1,5 @@
 class Students1{
+//variable declaration 
     int rollno;
     String name;
    void insertRecord(int r, String n){
